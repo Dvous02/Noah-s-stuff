@@ -1,1 +1,3 @@
-# Noah-s-stuff
+This repo is a little project i am working on, it is a console for running scripts in windows(currently set to run .py, .bat, .ps1 scripts for now). i am a novice and exploring AI, which has lead me to require some scripting knoweldge. My goals are currently beyond my abilities, and using some ai assistance i have managed to peice this together.
+
+If this is of any use to others that are still in the early stages, please feel free to give it a test run... if you are a seasoned coder/scripter, or have more understanding than i do- please feel free to offer any insights or suggestions/edits you think would be benificial. i will be uploading soon
