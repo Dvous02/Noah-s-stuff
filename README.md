@@ -15,11 +15,23 @@ For developers and learners who want:
 - To avoid syntax errors and shell noise
 - A helpful GUI without needing to open CMD or PowerShell
 
+
+> ⚠️ **Disclaimer**: During the build process, some antivirus programs may flag the generated `.exe` as potentially malicious. This is a common false positive with Python scripts compiled using PyInstaller, especially when scripts execute system commands or spawn processes.
+>
+> To stay safe:
+> - Always review the source code before execution.
+> - Run in a virtual machine (e.g., VirtualBox) or sandbox environment if unsure.
+> - Avoid running unknown scripts unless you trust the source.
+
+This project contains **no malicious code**, but precautions are encouraged — especially for beginners.
+
+
+
+
+
 ## 📁 Installation Directory
 Installs to: `C:\Scripting Console\` by default
 
-
-***Disclaimer: during the process of creating the exe file, my AV gave a false positive to malware. please make sure to confirm scripts a free from any malicious code before use, additionally utilise VirtualBox or take other sandbox precautions before use***
 
 
 ---
