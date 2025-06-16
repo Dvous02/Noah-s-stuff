@@ -18,6 +18,10 @@ For developers and learners who want:
 ## 📁 Installation Directory
 Installs to: `C:\Scripting Console\` by default
 
+
+***Disclaimer: during the process of creating the exe file, my AV gave a false positive to malware. please make sure to confirm scripts a free from any malicious code before use, additionally utilise VirtualBox or take other sandbox precautions before use***
+
+
 ---
 
 ## Installation Guide
